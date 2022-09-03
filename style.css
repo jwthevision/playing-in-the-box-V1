@@ -1,0 +1,13 @@
+img {
+    width: 400px;
+    height: auto;
+    padding: 2em;
+}
+
+.box span {
+    background-color: darkorchid;
+    border: 5px solid violet;
+    padding: 1em;
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
