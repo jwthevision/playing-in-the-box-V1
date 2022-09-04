@@ -1,7 +1,14 @@
+h1 {
+    text-align: center;
+}
+
 img {
     width: 400px;
     height: auto;
     padding: 2em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .box span {
@@ -9,5 +16,35 @@ img {
     border: 5px solid violet;
     padding: 1em;
     color: aquamarine;
+    text-align: center;
+    font-weight: 900;
     font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box-2 {
+    border-style: dotted;
+    border-color: blueviolet;
+    margin-top: 20px;
+    margin-right: 1em;
+    margin-bottom: 40px;
+    margin-left: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    text-align: center;
+    color: blue;
+    font-size: larger;
+    font-weight: 800;
+}
+
+.products-1 ol {
+    border: 4px;
+    border-color: purple;
+    background-color: lightgray;
+    color: dark violet;
+    padding: 1em;
 }
