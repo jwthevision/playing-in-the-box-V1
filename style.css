@@ -73,7 +73,7 @@ img {
     font-weight: 800;
 }
 
-.products-1 ol {
+.products-1 {
     border: 4px;
     border-color: purple;
     background-color: lightgray;
@@ -81,11 +81,10 @@ img {
     padding: 1em;
 }
 
-li {
+span h3 {
     border: 2px solid blueviolet;
     text-align: center;
     font-weight: bolder;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    width: 150px;
-    height: auto;
+    margin: 2px 2px 2px 2px;
 }
