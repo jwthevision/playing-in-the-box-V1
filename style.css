@@ -7,6 +7,18 @@ body {
     text-align: center;
 } */
 
+.body {
+    flex: 0;
+    display: flex;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    width: 550px;
+    align-items: center;
+}
+
 
 .container-1 {
     display: flex;
@@ -14,7 +26,7 @@ body {
     color: black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: 800;
-    align-items: center;
+    justify-content: center;
     border-style: inset;
     box-shadow: inset;
 }
