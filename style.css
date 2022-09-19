@@ -16,7 +16,7 @@ body {
     font-weight: 800;
     align-items: center;
     border-style: inset;
-    border-color: blue;
+    box-shadow: inset;
 }
 
 .header {
