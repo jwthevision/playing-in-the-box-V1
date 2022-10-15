@@ -94,19 +94,13 @@ img {
 }
 
 .box-2 {
+    display: flex;
+    justify-content: center;
     border-style: dotted;
     border-color: blueviolet;
-    margin-top: 20px;
-    margin-right: 1em;
-    margin-bottom: 40px;
-    margin-left: 2em;
-    padding-top: 1em;
-    padding-bottom: 1em;
-    padding-left: 1em;
-    padding-right: 1em;
-    text-align: center;
+    align-items: center;
+    padding: 15px;
     color: blue;
-    font-size: larger;
     font-weight: 800;
 }
 
